@@ -1,7 +1,12 @@
-iZariam-Beta
-============
+New Opportunity
+===============
 
-Project of the new organization iZariam
+New Opportuity is an organization to improve free development
+
+Nuria
+=====
+
+Nuria is a browser game project, do you want help?
 
 DEVELOPERS:
 ===========
